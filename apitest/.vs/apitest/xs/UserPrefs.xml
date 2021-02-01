@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{76F28E42-47F2-4B69-A698-ECE01EB2A024}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.ItemProperties.apitest.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="apitest/Models/CharacterInfo.cs">
+    <Files>
+      <File FileName="apitest/MainPage.xaml" Line="9" Column="1" />
+      <File FileName="apitest/MainPage.xaml.cs" Line="27" Column="1" />
+      <File FileName="apitest/Models/CharacterInfo.cs" Line="11" Column="46" />
+      <File FileName="apitest/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="apitest/DataManager.cs" Line="40" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="apitest" expanded="True">
+            <Node name="apitest" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="CharacterInfo.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
