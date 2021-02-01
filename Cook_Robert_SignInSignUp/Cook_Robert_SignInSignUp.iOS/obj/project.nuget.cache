@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLTNebLw+L+kGjinQh2SPGr5fM22EqGFXAXM7R0kWOBYp0I0opeiSw5fRrv6qDwdfNMnYQV7QhVmvRPoWWR3Lg==",
+  "success": true,
+  "projectFilePath": "/Users/robertj/Desktop/fullsaildocs/MDV228/Cook_Robert_SignInSignUp/Cook_Robert_SignInSignUp.iOS/Cook_Robert_SignInSignUp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertj/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.text.encodings.web/5.0.0/system.text.encodings.web.5.0.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

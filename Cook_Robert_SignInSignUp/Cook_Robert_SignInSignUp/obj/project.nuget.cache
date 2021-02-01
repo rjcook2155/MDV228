@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "44D3y42u5Lsd5eTYZLk28VhV939lIQpbViw+/9fCRK1/OgCYS598/ySzk45KjRBXHTHOm+4O+ijNlSmEkFhNuQ==",
+  "success": true,
+  "projectFilePath": "/Users/robertj/Desktop/fullsaildocs/MDV228/Cook_Robert_SignInSignUp/Cook_Robert_SignInSignUp/Cook_Robert_SignInSignUp.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertj/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.text.encodings.web/5.0.0/system.text.encodings.web.5.0.0.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

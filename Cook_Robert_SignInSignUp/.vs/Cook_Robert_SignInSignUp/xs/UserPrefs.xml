@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{DC829FE3-FBE9-435A-84B7-470DA6CA608F}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cook_Robert_SignInSignUp/App.xaml.cs">
+    <Files>
+      <File FileName="Cook_Robert_SignInSignUp/MainPage.xaml.cs" Line="92" Column="63" />
+      <File FileName="Cook_Robert_SignInSignUp/Models/UserData.cs" />
+      <File FileName="Cook_Robert_SignInSignUp/SignInPage.xaml.cs" />
+      <File FileName="Cook_Robert_SignInSignUp/App.xaml.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cook_Robert_SignInSignUp" expanded="True">
+            <Node name="Cook_Robert_SignInSignUp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Cook_Robert_SignInSignUp.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Cook__Robert__SignInSignUp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
