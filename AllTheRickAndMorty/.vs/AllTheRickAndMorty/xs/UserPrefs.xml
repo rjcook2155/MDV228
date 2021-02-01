@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{283027DD-0C68-4D84-A887-1F8414745DCE}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AllTheRickAndMorty/FavoritesTab.xaml.cs">
+    <Files>
+      <File FileName="AllTheRickAndMorty/CharacterTab.xaml" Line="3" Column="52" IsPinned="True" />
+      <File FileName="AllTheRickAndMorty/CharacterTab.xaml.cs" />
+      <File FileName="AllTheRickAndMorty/EpisodeTab.xaml" />
+      <File FileName="AllTheRickAndMorty/EpisodeTab.xaml.cs" />
+      <File FileName="AllTheRickAndMorty/FavoritesTab.xaml" />
+      <File FileName="AllTheRickAndMorty/FavoritesTab.xaml.cs" Line="69" Column="14" />
+      <File FileName="AllTheRickAndMorty/DataManager.cs" />
+      <File FileName="AllTheRickAndMorty/Models/UserData.cs" />
+      <File FileName="AllTheRickAndMorty/Models/EpisodeInfo.cs" />
+      <File FileName="AllTheRickAndMorty/TabbedPageMain.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AllTheRickAndMorty" expanded="True">
+            <Node name="AllTheRickAndMorty" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="CharacterModal.xaml" expanded="True" />
+              <Node name="CharacterTab.xaml" expanded="True" />
+              <Node name="EpisodeTab.xaml" expanded="True" />
+              <Node name="FavoritesTab.xaml" expanded="True">
+                <Node name="FavoritesTab.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SignInPage.xaml" expanded="True" />
+              <Node name="TabbedPageMain.xaml" expanded="True" />
+            </Node>
+            <Node name="AllTheRickAndMorty.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AllTheRickAndMorty.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

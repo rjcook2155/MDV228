@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             NavigationPage.HasNavigationBar="True"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AllTheRickAndMorty.CharacterTab">
+    <ContentPage.Content>
+    <StackLayout BackgroundColor="#fff9b7">
+<Entry x:Name="nameEditor" Placeholder="Enter a Character Name" HorizontalOptions="CenterAndExpand"/>
+<Button x:Name="findButton" Text="Find Character" HorizontalOptions="CenterAndExpand"/>
+
+<ListView x:Name="listView">
+    <ListView.ItemTemplate>
+        <DataTemplate>
+            <ImageCell Text="" Detail="" />
+        </DataTemplate>
+    </ListView.ItemTemplate>
+</ListView>
+    </StackLayout>
+        </ContentPage.Content>
+</ContentPage>
