@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage BackgroundColor="#f0e14a" xmlns="http://xamarin.com/schemas/2014/forms"
+            NavigationPage.HasBackButton="False"
+            NavigationPage.HasNavigationBar="True"
+            BarBackgroundColor="#f0e14a"
+            BarTextColor="#62a4ab"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"            
+             x:Class="AllTheRickAndMorty.TabbedPageMain">
+                
+    
+</TabbedPage>

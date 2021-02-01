@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             NavigationPage.HasNavigationBar="False"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AllTheRickAndMorty.MainPage">
+    
+    <StackLayout BackgroundColor="#fff9b7">
+        <Label Text="Create an Account" TextColor="#62a4ab" FontSize="Title" VerticalOptions="Start" HorizontalOptions="CenterAndExpand" FontFamily="get-schwifty.ttf"/>
+            <StackLayout Orientation="Horizontal">
+            <Label Text="First Name: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+            <Entry x:Name="firstNameEntry" Placeholder="First Name" HorizontalOptions="EndAndExpand"/>
+            </StackLayout>
+        <StackLayout Orientation="Horizontal">
+        <Label Text="Last Name: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+        <Entry x:Name="lastNameEntry" Placeholder="Last Name" HorizontalOptions="EndAndExpand"/>
+        </StackLayout>
+            <StackLayout Orientation="Horizontal">
+            <Label Text="Username: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+            <Entry x:Name="userNameEntry" Placeholder="Username" HorizontalOptions="EndAndExpand"/>
+            </StackLayout>
+        <StackLayout Orientation="Horizontal">
+        <Label Text="Email: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+        <Entry x:Name="emailEntry" Placeholder="Email" HorizontalOptions="EndAndExpand"/>
+        </StackLayout>
+            <StackLayout Orientation="Horizontal">
+            <Label Text="Password: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+            <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="True" HorizontalOptions="EndAndExpand"/>
+            </StackLayout>
+        <StackLayout Orientation="Horizontal">
+        <Label Text="Password: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+        <Entry x:Name="passwordRetype" Placeholder="Re-type Password" IsPassword="True" HorizontalOptions="EndAndExpand"/>
+        </StackLayout>
+        <Button x:Name="signInButton" BackgroundColor="#44261d" Text="If you already have an account click here to sign in!" TextColor="#62a4ab" />
+        <Button x:Name="createButton" BackgroundColor="#44261d" TextColor="#62a4ab" Text="Create Account" VerticalOptions="EndAndExpand"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             NavigationPage.HasNavigationBar="True"
+             NavigationPage.IconColor="#62a4ab"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AllTheRickAndMorty.EpisodeTab">
+    <StackLayout BackgroundColor="#fff9b7">
+        <Label Text="Episode Search" HorizontalOptions="CenterAndExpand" FontSize="Title"/>
+            <StackLayout Orientation="Horizontal">
+            <Button x:Name="seasonOneButton" Text="Season One"  BackgroundColor="#44281D" TextColor="#62A4AB" HorizontalOptions="StartAndExpand" Margin="10"/>
+            <Button x:Name="seasonTwoButton" Text="Season Two"  BackgroundColor="#44281D" TextColor="#62A4AB" HorizontalOptions="EndAndExpand" Margin="10"/>
+            </StackLayout>
+        <StackLayout Orientation="Horizontal">
+        <Button x:Name="seasonThreeButton" Text="Season Three"  BackgroundColor="#44281D" TextColor="#62A4AB" HorizontalOptions="StartAndExpand" Margin="10"/>
+        <Button x:Name="seasonFourButton" Text="Season Four"  BackgroundColor="#44281D" TextColor="#62A4AB" HorizontalOptions="EndAndExpand" Margin="10"/>
+        </StackLayout>
+        <ListView x:Name="listView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                <TextCell Text="" Detail="" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

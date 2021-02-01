@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             NavigationPage.HasNavigationBar="False"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AllTheRickAndMorty.SignInPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#fff9b7">
+        <Label Text="Sign In" TextColor="#62a4ab" FontSize="Title" VerticalOptions="Start" HorizontalOptions="CenterAndExpand" FontFamily="get-schwifty.ttf"/>
+            <StackLayout Orientation="Horizontal">
+            <Label Text="Username: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+            <Entry x:Name="userNameEntry" Placeholder="Username" HorizontalOptions="EndAndExpand"/>
+            </StackLayout>
+        <StackLayout Orientation="Horizontal">
+        <Label Text="Password: " HorizontalOptions="StartAndExpand" VerticalOptions="Center" FontSize="Large" TextColor="#62a4ab"/>
+        <Entry x:Name="passwordEntry" Placeholder="Re-type Password" IsPassword="True" HorizontalOptions="EndAndExpand"/>
+        </StackLayout>
+            <StackLayout Orientation="Horizontal">
+            <Button x:Name="signUpButton" Text="Create an Account" HorizontalOptions="StartAndExpand" BackgroundColor="#44261d" TextColor="#62a4ab"/>
+            <Button x:Name="forgotPassButton" Text="Forgot Password" HorizontalOptions="EndAndExpand" BackgroundColor="#44261d" TextColor="#62a4ab"/>
+            </StackLayout>
+    <Button x:Name="signInButton" BackgroundColor="#44261d" TextColor="#62a4ab" Text="Sign In" VerticalOptions="EndAndExpand"  />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

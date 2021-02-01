@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5CAqArUpETcRRE9vNK9UONU3c+ESwfMZlLpbtEBw7dwWeTyy7eVRA3RhXBa5jq7GZgpqXh89bOJ4vnJn8z7CQ==",
+  "success": true,
+  "projectFilePath": "/Users/robertj/Desktop/fullsaildocs/MDV228/AllTheRickAndMorty/AllTheRickAndMorty.iOS/AllTheRickAndMorty.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertj/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/robertj/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
